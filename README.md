@@ -1,5 +1,7 @@
 # basic-soap-web-service-with-spring-security
 
+sample - url -> http://localhost:8080/ws/courses.wsdl
+
 <Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
     <Header>
         <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" mustUnderstand="1">
